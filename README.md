@@ -4,6 +4,21 @@
 #### Data Scientist / Machine Learning Engineer
 I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in the UK. With a solid foundation in computer science and a passion for leveraging data to drive insights, I bring over 3 years of diverse experience, including projects at Tata Consultancy Services and internships at Infosys and Calnestor Knowledge Solutions. My expertise lies in machine learning, deep learning, natural language processing, and data visualization, complemented by a Master's degree in Advanced Computer Science from Newcastle University. I'm driven by the challenge of solving complex problems and eager to contribute to innovative projects in the UK's dynamic tech landscape.
 
+## Skills and Experience
+* Machine Learning and Data Science 🤖📈
+* Programming: Python 🐍💻
+* Exploratory Data Analysis and Data Visualization 📊📈
+* Statistics Analysis and Modelling 📉🔬
+* Time Series Analysis ⏰📊
+* Problem Solving 🧩💡
+* Data Pre-processing and Feature Engineering 🛠️📋
+* Natural Language Processing 💠
+* LLMs 🧾
+* Generative AI
+* :currency_exchange:	dhhdk
+* 
+
+
 Skills: Machine Learning / Deep Learning / Python / Natural Language Processing / Generative AI /  Large Language Models / Data Processing and Visualization / Data Analysis / Databases / Distributed Computing / Spark / Statistics and Mathematics for AI
 
 - 📫 How to reach me: sanyalsomakncl@gmail.com 
