@@ -17,10 +17,10 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 * Generative AI :computer::robot:	
 
 
-Skills: Machine Learning / Deep Learning / Python / Natural Language Processing / Generative AI /  Large Language Models / Data Processing and Visualization / Data Analysis / Databases / Distributed Computing / Spark / Statistics and Mathematics for AI
 
-- 📫 How to reach me: sanyalsomakncl@gmail.com 
 
+
+- 📫 Reach me @ sanyalsomakncl@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/somaksanyal97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/somaksanyal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/somaksanyal)  
 
