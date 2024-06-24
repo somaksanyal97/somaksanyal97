@@ -14,9 +14,7 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 * Data Pre-processing and Feature Engineering 🛠️📋
 * Natural Language Processing 💠
 * LLMs 🧾
-* Generative AI
-* :currency_exchange:	dhhdk
-* 
+* Generative AI :computer::robot:	
 
 
 Skills: Machine Learning / Deep Learning / Python / Natural Language Processing / Generative AI /  Large Language Models / Data Processing and Visualization / Data Analysis / Databases / Distributed Computing / Spark / Statistics and Mathematics for AI
