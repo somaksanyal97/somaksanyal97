@@ -18,9 +18,10 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 
 
 
+<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" />
 
-
-- 📫 Reach me @ sanyalsomakncl@gmail.com 
+🤝👥 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email:
+   sanyalsomakncl@gmail.com. 📫
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/somaksanyal97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/somaksanyal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/somaksanyal)  
 
