@@ -22,7 +22,7 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 
 vljvnvflvfnv
 
-<img src = "https://www.kaggle.com/code/goyaladi/spam-classifier-sms-email?scriptVersionId=138107886&cellId=1" />
+<img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/SWBtr.gif" />
 
 
 🤝👥 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email:
