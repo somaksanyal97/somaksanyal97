@@ -1,5 +1,4 @@
-![Data Scientist / Machine Learning Engineer](https://github.com/somaksanyal97/somaksanyal97/blob/main/561D60E4-D864-4C26-982F-93C8B7D07E7C.jpeg)
-
+![Data Scientist / Machine Learning Engineer]
 ### Hi there 👋, I'm Somak!
 #### Data Scientist / Machine Learning Engineer
 I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in the UK. With a solid foundation in computer science and a passion for leveraging data to drive insights, I bring over 3 years of diverse experience, including projects at Tata Consultancy Services and internships at Infosys and Calnestor Knowledge Solutions. My expertise lies in machine learning, deep learning, natural language processing, and data visualization, complemented by a Master's degree in Advanced Computer Science from Newcastle University. I'm driven by the challenge of solving complex problems and eager to contribute to innovative projects in the UK's dynamic tech landscape.
@@ -16,6 +15,7 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 * LLMs 🧾
 * Generative AI :computer::robot:	
 
+(https://github.com/somaksanyal97/somaksanyal97/blob/main/561D60E4-D864-4C26-982F-93C8B7D07E7C.jpeg)
 
 
 <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" />
