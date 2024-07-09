@@ -22,7 +22,7 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 
 vljvnvflvfnv
 
-<img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/SWBtr.gif" = 250 * 250 />
+<img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/SWBtr.gif" width="200" height="200"/>
 
 
 🤝👥 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email:
