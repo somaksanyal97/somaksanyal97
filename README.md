@@ -9,6 +9,7 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 
 📌 Find me on [LinkedIn](www.linkedin.com/in/somaksanyal).
 
+<img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" style="width:1000px; height:300px;">
 
 ## Skills and Experience
 * Machine Learning and Data Science 🤖📈
@@ -22,7 +23,7 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 * LLMs 🧾
 * Generative AI :computer::robot:	
 
-<img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" style="width:1000px; height:300px;">
+
 
 
 <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" />
