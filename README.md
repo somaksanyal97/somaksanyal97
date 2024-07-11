@@ -7,7 +7,7 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 
 📌 Access my resume here:[📋](https://github.com/somaksanyal97/somaksanyal97/blob/main/1719747512939.pdf) <br>
 
-📌 You can view me on [LinkedIn] (www.linkedin.com/in/somaksanyal).
+📌 You can view me on [LinkedIn](www.linkedin.com/in/somaksanyal).
 
 
 ## Skills and Experience
