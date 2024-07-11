@@ -12,6 +12,9 @@ I'm Somak Sanyal, a driven Data Scientist & Machine Learning Engineer based in t
 <img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" style="width:1000px; height:300px;">
 
 ## Skills and Experience
+
+I possess a diverse set of skills that allow me to excel in the field of Data Science and Machine Learning. Here are some of the key skills I bring to the table: <br>
+
 * Machine Learning and Data Science 🤖📈
 * Programming: Python 🐍💻
 * Exploratory Data Analysis and Data Visualization 📊📈
