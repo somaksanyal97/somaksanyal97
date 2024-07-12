@@ -1,4 +1,4 @@
-![Data Scientist / Machine Learning Engineer](https://github.com/somaksanyal97/somaksanyal97/blob/main/561D60E4-D864-4C26-982F-93C8B7D07E7C.jpeg)
+![Data Scientist / Machine Learning Engineer]("https://github.com/somaksanyal97/somaksanyal97/blob/main/561D60E4-D864-4C26-982F-93C8B7D07E7C.jpeg")
 
 ## Hi there 👋, I'm Somak!
 #### Data Scientist / Machine Learning Engineer <br>
@@ -36,7 +36,7 @@ View entire [dissertation](https://github.com/somaksanyal97/dissertationProject_
 <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" width="375" height="375" /> <br>
 
 2. ### [Email Spam Classifier](https://github.com/somaksanyal97/Email-Spam-Classifier)
-• Developed a classification model to detect spam emails using Natural Language Processing (NLP) techniques.
+• Developed a classification model to detect spam emails using Natural Language Processing (NLP) techniques. <br>
 • Trained and evaluated multiple machine learning algorithms, including Naive Bayes, Support Vector Machines, and Random Forest. <br>
 <img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/SWBtr.gif" width="375" height="375"/> <br>
 
