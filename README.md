@@ -32,7 +32,7 @@ I possess a diverse set of skills that allow me to excel in the field of Data Sc
 I love working on projects that challenge me and allow me to learn and grow. Here's few of my highlighted projects:
 
 1. ### [Disease Progression Prediction](https://github.com/somaksanyal97/dissertationProject_Newcastle)
-• Developed a multi-class classification model to predict disease and pain progression with real patient data encompassing 224 cases.
+• Developed a multi-class classification model to predict disease and pain progression with real patient data encompassing 224 cases. <br>
 • Systematically evaluated best combinations of data features, algorithms, and parameters to optimize model performance.
 
   <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" style= "margin-left:50px;" >
