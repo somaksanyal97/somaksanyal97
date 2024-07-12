@@ -34,8 +34,8 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 1. ### [Disease Progression Prediction](https://github.com/somaksanyal97/dissertationProject_Newcastle)
 
 
-  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" style= "margin-left:20px;" >
-<img src="path/to/your/image.jpg" alt="Description of Image" style="width:100%; height:300px; margin-left:20px;">
+  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" style= "margin-left:50px;" >
+
 
 
 vljvnvflvfnv
