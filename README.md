@@ -1,4 +1,4 @@
-![Data Scientist / Machine Learning Engineer]("https://github.com/somaksanyal97/somaksanyal97/blob/main/561D60E4-D864-4C26-982F-93C8B7D07E7C.jpeg")
+![Data Scientist / Machine Learning Engineer](https://github.com/somaksanyal97/somaksanyal97/blob/main/561D60E4-D864-4C26-982F-93C8B7D07E7C.jpeg)
 
 ## Hi there 👋, I'm Somak!
 #### Data Scientist / Machine Learning Engineer <br>
