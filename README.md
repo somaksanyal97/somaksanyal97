@@ -37,7 +37,7 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 2. ### [Email Spam Classifier](https://github.com/somaksanyal97/Email-Spam-Classifier)
 
 
-<img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/SWBtr.gif" width="350" height="350"/>
+<img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/SWBtr.gif" width="375" height="375"/> <br>
 
 
 🤝👥 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email:
