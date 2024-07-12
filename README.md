@@ -32,8 +32,7 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 1. ### [Disease Progression Prediction](https://github.com/somaksanyal97/dissertationProject_Newcastle)
 • Developed a multi-class classification model to predict disease and pain progression with real patient data encompassing 224 cases. <br>
 • Systematically evaluated best combinations of data features, algorithms, and parameters to optimize model performance.
-
-  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" style= "margin-left:50px;" >
+<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" width="200" height="200" margin-left="50"/>
 
 
 
