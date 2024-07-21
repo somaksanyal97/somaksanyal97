@@ -43,7 +43,7 @@ View full [dissertation](https://github.com/somaksanyal97/dissertationProject_Ne
 3. ### [Bank Loan Eligibility Classifier](https://github.com/somaksanyal97/Bank-Loan-Prediction)
     • Developed a classification model to predict loan eligibilty for individuals. <br>
     • Trained and evaluated multiple machine learning algorithms, including Naive Bayes, Support Vector Machines, and Random Forest. <br><br>
-<img src = "https://github.com/somaksanyal97/Bank-Loan-Prediction/blob/main/pic.gif" width="375" height="375"/> <br>
+<img src = "https://github.com/somaksanyal97/Bank-Loan-Prediction/blob/main/pic.gif" width="1000" height="400"/> <br>
 
 🤝👥 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email:
    sanyalsomakncl@gmail.com. 📫
