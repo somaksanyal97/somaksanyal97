@@ -51,16 +51,6 @@ Watch [Video Demonstration](https://youtu.be/I2J0CrH-Fz0) . <br><br>
     • Trained and evaluated multiple machine learning algorithms, including Support Vector Classifier, Decision Tree Classifier and Random Forest. <br><br>
 <img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LhHcxo1r1D-OfG-qbPCS2Q.jpeg" width="400" height="350"/> <br>
 
-6. ### [Next Word Predictor using LSTM](https://github.redit-Card-Fraud-Detector/blob/main/Source_Code.ipynb)
-    • Developed a prediction model to predict the next probable word. <br>
-    • Working on it. <br><br>
-
-6. ### [Next Word Predictor using LSTM](https://github.redit-Card-Fraud-Detector/blob/main/Source_Code.ipynb)
-    • Developed a prediction model to predict the next probable word. <br>
-    • Working on it. <br><br>
-<img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LhHcxo1r1D-OfG-qbPCS2Q.jpeg" width="400" height="350"/> <br>
-
-
 🤝👥 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email:
    sanyalsomakncl@gmail.com. 📫
 
