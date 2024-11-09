@@ -52,11 +52,11 @@ Watch [Video Demonstration](https://youtu.be/I2J0CrH-Fz0) . <br><br>
 <img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LhHcxo1r1D-OfG-qbPCS2Q.jpeg" width="400" height="350"/> <br>
 
 5. ### [Paris Housing Price Detection](https://github.com/somaksanyal97/Paris-Housing-Price-prediction/blob/main/Paris_House_Price_Prediction.ipynb)
-    • Developed a regression model to predict the house price using Linear Regression. <br><br>
+• Developed a regression model to predict the house price using Linear Regression. <br><br>
 <img src = "https://github.com/somaksanyal97/Paris-Housing-Price-prediction/blob/main/1_tRupLU-m0fRDh4zbazNUew%20(1).gif" width="400" height="350"/> <br>
 
 ### [Survival Prediction on Titanic](https://github.com/somaksanyal97/Titanic-Survival-Prediction/blob/main/Survival_Prediction_Titanic.ipynb)
-    • Developed classifical models to predict survival possibility on the Titanic. <br><br>
+• Developed classifical models to predict survival possibility on the Titanic. <br><br>
 <img src = "https://github.com/somaksanyal97/Titanic-Survival-Prediction/blob/main/giphy.webp" width="400" height="350"/> <br>
 
 
