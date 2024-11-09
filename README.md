@@ -55,6 +55,11 @@ Watch [Video Demonstration](https://youtu.be/I2J0CrH-Fz0) . <br><br>
     • Developed a regression model to predict the house price using Linear Regression. <br><br>
 <img src = "https://github.com/somaksanyal97/Paris-Housing-Price-prediction/blob/main/1_tRupLU-m0fRDh4zbazNUew%20(1).gif" width="400" height="350"/> <br>
 
+### [Survival Prediction on Titanic](https://github.com/somaksanyal97/Titanic-Survival-Prediction/blob/main/Survival_Prediction_Titanic.ipynb)
+    • Developed classifical models to predict survival possibility on the Titanic. <br><br>
+<img src = "https://github.com/somaksanyal97/Titanic-Survival-Prediction/blob/main/giphy.webp" width="400" height="350"/> <br>
+
+
 🤝👥 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email:
    sanyalsomakncl@gmail.com. 📫
 
