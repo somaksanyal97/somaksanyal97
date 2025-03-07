@@ -38,7 +38,7 @@ Watch [Video Demonstration](https://youtu.be/I2J0CrH-Fz0) . <br><br>
 
 2. ### [Email Spam Detection](https://github.com/somaksanyal97/Email-Spam-Detection/blob/main/README.md)
     • Developed a **tranformer based email spam classification model** using **DistilBERT**. <br>
-    • Compared model performances between Deep Learning and Machine Learning algorithms - implemented **Simple RNN, Bidirectional LSTM & GRU, XGBoost, LightGBM, Adaboost, Random Forest Classifier, Decision Tree Classifier, KNN Classifier, Logistic Regression and Naive Bayes using Word2Vec embeddings, BOW and TF-IDF vectorizer. <br><br>
+    • Compared model performances between Deep Learning and Machine Learning algorithms - implemented **Simple RNN, Bidirectional LSTM & GRU, XGBoost, LightGBM, Adaboost, Random Forest Classifier, Decision Tree Classifier, KNN Classifier, Logistic Regression and Naive Bayes using Word2Vec embeddings, BOW and TF-IDF vectorizer.** <br><br>
 <img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/SWBtr.gif" width="400" height="350"/> <br>
 
 3. ### [Bank Loan Eligibility Classifier](https://github.com/somaksanyal97/Bank-Loan-Prediction)
