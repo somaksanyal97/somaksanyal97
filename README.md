@@ -36,26 +36,32 @@ View full [Dissertation](https://github.com/somaksanyal97/dissertationProject_Ne
 Watch [Video Demonstration](https://youtu.be/I2J0CrH-Fz0) . <br><br>
 <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGIzYmdhbXRzNXdqenpkMWFuM3FiMWNqM3FveTV4Z3AwNWNudDd5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y335xyKYQGrja/giphy.gif" width="400" height="350" /> <br>
 
-2. ### [Email Spam Detection](https://github.com/somaksanyal97/Email-Spam-Detection/blob/main/README.md)
+2. ### [BBC News Subcategory Classification + Summarization](https://github.com/somaksanyal97/BBC-News-Subcategory-Classification-/blob/main/README.md)
+    • **Topic Modelling** - Multi-class subcategory classification using LDA, fine-tuned Gemma 2B + Olama and DistilBERT / BART. <br>
+    • **NER with Role Classification** - Extracted entities are tagged with specific societal roles using SpaCy and rule-based heuristics. <br>
+    • **Summarization** - April-related summaries using Hugging Face Transformers (e.g., DistilBART CNN) and Gemma:2B. <br><br>
+<img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/bbc-news-tv.gif" width="400" height="350"/> <br>
+
+3. ### [Email Spam Detection](https://github.com/somaksanyal97/Email-Spam-Detection/blob/main/README.md)
     • Developed a **tranformer based email spam classification model** using **DistilBERT**. <br>
     • Compared model performances between Deep Learning and Machine Learning algorithms - implemented **Simple RNN, Bidirectional LSTM & GRU, XGBoost, LightGBM, Adaboost, Random Forest Classifier, Decision Tree Classifier, KNN Classifier, Logistic Regression and Naive Bayes using Word2Vec embeddings, BOW and TF-IDF vectorizer.** <br><br>
 <img src = "https://github.com/somaksanyal97/somaksanyal97/blob/main/SWBtr.gif" width="400" height="350"/> <br>
 
-3. ### [Bank Loan Eligibility Classifier](https://github.com/somaksanyal97/Bank-Loan-Prediction)
+4. ### [Bank Loan Eligibility Classifier](https://github.com/somaksanyal97/Bank-Loan-Prediction)
     • Developed a classification model to predict loan eligibilty for individuals. <br>
     • Trained and evaluated multiple machine learning algorithms, including Naive Bayes, Support Vector Machines, and Random Forest. <br><br>
 <img src = "https://github.com/somaksanyal97/Bank-Loan-Prediction/blob/main/pic.gif" width="400" height="350"/> <br>
 
-4. ### [Credit Card Fraud Detector](https://github.com/somaksanyal97/Credit-Card-Fraud-Detector/blob/main/Source_Code.ipynb)
+5. ### [Credit Card Fraud Detector](https://github.com/somaksanyal97/Credit-Card-Fraud-Detector/blob/main/Source_Code.ipynb)
     • Developed a classification model to predict fraud in credit cards. <br>
     • Trained and evaluated multiple machine learning algorithms, including Support Vector Classifier, Decision Tree Classifier and Random Forest. <br><br>
 <img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LhHcxo1r1D-OfG-qbPCS2Q.jpeg" width="400" height="350"/> <br>
 
-5. ### [Paris Housing Price Detection](https://github.com/somaksanyal97/Paris-Housing-Price-prediction/blob/main/Paris_House_Price_Prediction.ipynb)
+6. ### [Paris Housing Price Detection](https://github.com/somaksanyal97/Paris-Housing-Price-prediction/blob/main/Paris_House_Price_Prediction.ipynb)
 • Developed a regression model to predict the house price using Linear Regression. <br><br>
 <img src = "https://github.com/somaksanyal97/Paris-Housing-Price-prediction/blob/main/1_tRupLU-m0fRDh4zbazNUew%20(1).gif" width="400" height="350"/> <br>
 
-6. ### [Survival Prediction on Titanic](https://github.com/somaksanyal97/Titanic-Survival-Prediction/blob/main/Survival_Prediction_Titanic.ipynb)
+7. ### [Survival Prediction on Titanic](https://github.com/somaksanyal97/Titanic-Survival-Prediction/blob/main/Survival_Prediction_Titanic.ipynb)
     • Developed classifical models to predict survival possibility on the Titanic. <br><br>
 <img src = "https://github.com/somaksanyal97/Titanic-Survival-Prediction/blob/main/giphy.webp" width="400" height="350"/> <br>
 
